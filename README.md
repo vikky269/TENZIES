@@ -1,8 +1,10 @@
-# React + Vite
+# TENZIES
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The object of the game is to roll the dice as fast as possible, the player who gets all dice on the same number and yells "TENZI!" is the winner.
 
-Currently, two official plugins are available:
+I really learnt a lot while doing this project. I learnt more about the use state, the every javascript array method, I learnt how to use the nanoId package and also the react confetti package.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# TUTORIAL RESOURCE
+React beginner course by BOb Ziroll  
+
+FREECODECAMP.ORG
