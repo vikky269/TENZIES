@@ -81,3 +81,13 @@ main{
 .roll-btn:active{
     box-shadow: inset 5px 5px 10px -3px rgba(0, 0, 0, 0.7);
 }
+@media screen and  (max-width:1024px)  {
+    .container{
+        display:grid;
+        grid-template: auto auto  auto / repeat(3, 1fr);
+        gap: 20px;
+    }
+    main{
+        height: 700px;
+    }
+}
